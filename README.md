@@ -1,3 +1,6 @@
+THERE IS A BUG IN CURRENT RELEASE, WHICH HIDES THE SETTINGS BUTTON. SO YOU CANT USE THE APP YET. SORRY FOR THEAT. I FIX IT TOMORROW :)
+
+
 # Pronothek Video Downloader
 Pronothek is a simple video downloader for various streaming/media platforms. In 
 the current version 1.0.0, only video downloads from xvideos.de are supported. More pages will be 
