@@ -1,7 +1,8 @@
 # Pronothek Video Downloader
-Pronothek is a simple video downloader for various streaming/media platforms, such as YouTube. In 
+Pronothek is a simple video downloader for various streaming/media platforms. In 
 the current version 1.0.0, only video downloads from xvideos.de are supported. More pages will be 
 added gradually in subsequent versions.
+
 ![preview](https://github.com/hswlab/dist-pronothek/blob/main/Screenshot.png)
 
 # Nuget packages and associated licenses used for the app
