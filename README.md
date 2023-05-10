@@ -1,5 +1,7 @@
 # Pronothek Video Downloader
 [![GitHub](https://img.shields.io/github/license/hswlab/dist-pronothek)](https://github.com/hswlab/dist-pronothek/blob/main/LICENSE)
+[![Downloads](https://img.shields.io/github/downloads/hswlab/dist-pronothek/total)](https://github.com/hswlab/dist-pronothek/releases/latest)
+
 
 Pronothek is a simple video downloader for various streaming/media platforms. In 
 the current version 1.0.0, only video downloads from xvideos.de are supported. More pages will be 
