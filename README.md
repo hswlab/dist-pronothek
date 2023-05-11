@@ -19,7 +19,7 @@ More download options will probably come gradually as I learn more about videost
 - SharpGrabber.Hls <a href="https://www.nuget.org/packages/SharpGrabber.Hls/1.3.0/license">`license`</a>
 - SharpGrabber.YouTube <a href="https://www.nuget.org/packages/SharpGrabber.YouTube/1.5.0/license">`license`</a>
 
-# External libraries (Automatic download available)
+# External libraries (Can be downloaded automaticly within settings view)
 - FFmpeg 6.0 <a href="https://ffmpeg.org/legal.html">`license`</a>
 
 # More Details
