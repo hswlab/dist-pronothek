@@ -3,7 +3,18 @@
 [![Downloads](https://img.shields.io/github/downloads/hswlab/dist-pronothek/total)](https://github.com/hswlab/dist-pronothek/releases/latest)
 [![Downloads](https://img.shields.io/github/v/release/hswlab/dist-pronothek)](https://github.com/hswlab/dist-pronothek/releases/latest)
 
-This app is an experiment of mine to convert a .NET6 MVC web application into a fully functional desktop application using Electron .NET. User interactions like configuring storage folders or video editing are rather not common in a classic web application. This is where Electron's strengths come into focus, as it allows you to perform actions closer to the operating system. This app also serves as an experimental environment for me to learn how to use ffmpeg in C#. Currently I'm trying to understand how video streams are working and how you can fetch and convert such data. Maybe this experiment will at least develop into a useful video downloader for various streaming/media. In the current version 3.0.0, only video downloads from xvideos and youtube are supported. Maybe more download options will come gradually as I learn more about videostreams and ffmpeg.
+This application is an experiment to convert a .NET6 MVC web application into a fully functional 
+desktop application using Electron .NET. User interactions such as configuring storage folders or 
+editing video are uncommon in a classic web application. This is where Electron's strengths come into 
+play, as it allows you to perform actions closer to the operating system. Among other things, this 
+application serves as an experimentation environment for me to learn how to use ffmpeg in C#. 
+Currently, I am trying to understand how video streams work and how to retrieve and convert such 
+data. Perhaps this experiment will develop into at least a useful video downloader for various 
+streams/media. To determine a downloadable video URL, my downloader uses the SharpGrabber 
+library, so only downloads on media platforms that support this library are possible. More download 
+possibilities will be available once I have delved deeper into the subject.
+
+- Currently Supported Websites: YouTube, xvideos
 
 ![preview](https://github.com/hswlab/dist-pronothek/blob/main/Screenshot.png)
 
