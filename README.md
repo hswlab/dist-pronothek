@@ -14,7 +14,7 @@ streams/media. To determine a downloadable video URL, my downloader uses the Sha
 library, so only downloads on media platforms that support this library are possible. More download 
 possibilities will be available once I have delved deeper into the subject.
 
-- Currently Supported Websites: YouTube, xvideos
+- Currently Supported Websites: YouTube, xvideos, xnxx
 
 ![preview](https://github.com/hswlab/dist-pronothek/blob/main/Screenshot.png)
 
