@@ -28,6 +28,7 @@ possibilities will be available once I have delved deeper into the subject.
 - SharpGrabber.Adult <a href="https://www.nuget.org/packages/SharpGrabber.Adult/1.0.2/license">`license`</a>
 - SharpGrabber.Hls <a href="https://www.nuget.org/packages/SharpGrabber.Hls/1.3.0/license">`license`</a>
 - SharpGrabber.YouTube <a href="https://www.nuget.org/packages/SharpGrabber.YouTube/1.5.0/license">`license`</a>
+- MediaToolkit <a href="https://www.nuget.org/packages/SharpGrabber.YouTube/1.5.0/license">`license`</a>
 
 # External libraries (Can be downloaded automaticly within settings view)
 - FFmpeg 6.0 <a href="https://ffmpeg.org/legal.html">`license`</a>
