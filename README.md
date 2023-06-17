@@ -1,7 +1,7 @@
 # Pronothek Video Downloader
-[![GitHub](https://img.shields.io/github/license/hswlab/dist-pronothek)](https://github.com/hswlab/dist-pronothek/blob/main/LICENSE)
-[![Downloads](https://img.shields.io/github/downloads/hswlab/dist-pronothek/total)](https://github.com/hswlab/dist-pronothek/releases/latest)
-[![Downloads](https://img.shields.io/github/v/release/hswlab/dist-pronothek)](https://github.com/hswlab/dist-pronothek/releases/latest)
+[![GitHub](https://img.shields.io/github/license/hswlab/downloadthek)](https://github.com/hswlab/downloadthek/blob/main/LICENSE)
+[![Downloads](https://img.shields.io/github/downloads/hswlab/downloadthek/total)](https://github.com/hswlab/downloadthek/releases/latest)
+[![Downloads](https://img.shields.io/github/v/release/hswlab/downloadthek)](https://github.com/hswlab/downloadthek/releases/latest)
 
 This application is an experiment to convert a .NET6 MVC web application into a fully functional 
 desktop application using Electron .NET. User interactions such as configuring storage folders or 
@@ -16,7 +16,7 @@ possibilities will be available once I have delved deeper into the subject.
 
 - Currently Supported Websites: YouTube, xvideos, xnxx
 
-![preview](https://github.com/hswlab/dist-pronothek/blob/main/Screenshot.png)
+![preview](https://github.com/hswlab/downloadthek/blob/main/Screenshot.png)
 
 # Nuget packages and associated licenses used for the app
 - Newtonsoft.Json <a href="https://licenses.nuget.org/MIT">`license`</a>
@@ -34,5 +34,5 @@ possibilities will be available once I have delved deeper into the subject.
 - FFmpeg 6.0 <a href="https://ffmpeg.org/legal.html">`license`</a>
 
 # More Details
-- German: https://github.com/hswlab/dist-pronothek/blob/main/about-de.pdf
-- English: https://github.com/hswlab/dist-pronothek/blob/main/about-en.pdf
+- German: https://github.com/hswlab/downloadthek/blob/main/about-de.pdf
+- English: https://github.com/hswlab/downloadthek/blob/main/about-en.pdf
