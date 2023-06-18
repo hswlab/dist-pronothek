@@ -1,4 +1,4 @@
-# Downloadthek Video Downloader
+# Downloadthek Video/Audio Downloader
 [![GitHub](https://img.shields.io/github/license/hswlab/downloadthek)](https://github.com/hswlab/downloadthek/blob/main/LICENSE)
 [![Downloads](https://img.shields.io/github/downloads/hswlab/downloadthek/total)](https://github.com/hswlab/downloadthek/releases/latest)
 [![Downloads](https://img.shields.io/github/v/release/hswlab/downloadthek)](https://github.com/hswlab/downloadthek/releases/latest)
