@@ -36,3 +36,7 @@ possibilities will be available once I have delved deeper into the subject.
 # More Details
 - German: https://github.com/hswlab/downloadthek/blob/main/about-de.pdf
 - English: https://github.com/hswlab/downloadthek/blob/main/about-en.pdf
+
+# Known issues
+- In the current version, a running conversion to MP3 can unfortunately not yet be canceled. The conversion progress is also not yet displayed. To cancel a conversion, the application can be restarted.
+- The working memory consumption has not yet been optimized. An occasional restart of the app helps to free up memory.
