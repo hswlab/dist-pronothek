@@ -30,7 +30,7 @@ possibilities will be available once I have delved deeper into the subject.
 - SharpGrabber.YouTube <a href="https://www.nuget.org/packages/SharpGrabber.YouTube/1.5.0/license">`license`</a>
 - MediaToolkit <a href="https://www.nuget.org/packages/SharpGrabber.YouTube/1.5.0/license">`license`</a>
 
-# External libraries (Can be downloaded automaticly within settings view)
+# External libraries (Auto download available in the Settings-View)
 - FFmpeg 6.0 <a href="https://ffmpeg.org/legal.html">`license`</a>
 
 # More Details
