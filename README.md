@@ -42,6 +42,6 @@ possibilities will be available once I have delved deeper into the subject.
 - The working memory consumption has not yet been optimized. An occasional restart of the app helps to free up memory.
 
 # Alternative Video Downloader "EVD"
-There is another implementation of this Video Downloader with the name "Electron Video Downloader", which is using yt-dlp instead af SharpGrabber. This App is a little slower but it supports downloads from much more different websites.
+There is another implementation of this Video Downloader with the name "Electron Video Downloader", which is using yt-dlp instead of SharpGrabber. This App is a little slower but it supports downloads from much more different websites.
 
 [https://github.com/hswlab/downloadthek](https://github.com/hswlab/EVD)https://github.com/hswlab/EVD
